@@ -1,4 +1,4 @@
-<header>Uber Data Analytics | Data Engineering GCP Project </header>
+<b>Uber Data Analytics | Data Engineering GCP Project </b>
 
 Introduction
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
