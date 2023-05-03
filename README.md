@@ -8,7 +8,7 @@ Architecture
 
 
 
-Technology Used
+Technology Used  
 Programming Language - Python
 Google Cloud Platform
 
@@ -20,10 +20,9 @@ Modern Data Pipeine Tool - https://www.mage.ai/
 
 Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
-Dataset Used
+Dataset Used  
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
 
 More info about dataset can be found here:
 
