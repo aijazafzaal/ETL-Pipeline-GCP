@@ -8,15 +8,14 @@ The goal of this project is to perform data analytics on Uber data using various
 
 
 
-Technology Used  
-Programming Language - Python
-Google Cloud Platform
-
-Google Storage
-Compute Instance
-BigQuery
-Looker Studio
-Modern Data Pipeine Tool - https://www.mage.ai/
+<b>Technology Used</b>    
+Programming Language - Python  
+Google Cloud Platform  
+Google Storage  
+Compute Instance  
+BigQuery  
+Looker Studio  
+Modern Data Pipeine Tool - https://www.mage.ai/  
 
 
 <b>Dataset Used</b>      
