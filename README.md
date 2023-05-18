@@ -14,7 +14,7 @@ Google Cloud Platform
 Google Storage  
 Compute Instance  
 BigQuery  
-Looker Studio  
+Looker Studio(potential use)   
 Modern Data Pipeine Tool - https://www.mage.ai/  
 
 
